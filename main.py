@@ -2,7 +2,7 @@ import random
 
 def get_random_word():
     words = [
-        'python', 'hangman', 'challenge', 'programming', 'computer',
+        'poop', 'anus', 'challenge', 'programming', 'computer',
         'random', 'function', 'variable', 'syntax', 'algorithm',
         'keyboard', 'monitor', 'internet', 'software', 'hardware'
     ]
